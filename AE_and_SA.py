@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@Time ： 2022/3/8 22:33
-@Auth ： Zhou Ru
-"""
 
 import torch
 import torch.nn as nn
